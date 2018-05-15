@@ -1,6 +1,6 @@
 # Bamazon-app
 
-This application uses a simple command line storefront using the npm inquirer package and a MySQL database. Currently, the application uses one interface, that being the customer. (I am currently working on an interface for the administrator)
+This application uses a simple command line storefront using the npm inquirer package and a MySQL database.
 
 
 Customer Interface
